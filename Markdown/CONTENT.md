@@ -11,6 +11,3 @@ This fall, we have officially launched the Spartan Music Business Club. <br> We 
 (https://www.instagram.com/coffeeshopconcerts/)
 (https://www.instagram.com/msusmbc/)
 
-# Questions:
-Is width a style choice? What about page breaks? Emphasized text?
-What qualifies as a hero section?
